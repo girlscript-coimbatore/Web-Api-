@@ -1,0 +1,6 @@
+{
+    "event":[
+        {"name":"ML Bootcamp with Projects","date":"27/07/2020 to 02/08/2020","img":"https://sethu-1471.github.io/girlscript_api/event/ml-bootcamp.jpg","text":"It might be easier to state what part of our modern society machine learning and artificial intelligence hasn’t touched to show how important it is to our daily lives, business operations and society. Intelligence machines are influencing nearly every facet of our lives to help improve efficiencies and augment our human capabilities. AI is so intertwined in all that we do; it's hard to imagine living life without it.","registration":"https://bit.ly/gscbe27","learnMore":""},
+        {"name":"Embedded ML","date":"04/07/2020","img":"https://sethu-1471.github.io/girlscript_api/event/ml.jpg","text":"It might be easier to state what part of our modern society machine learning and artificial intelligence hasn’t touched to show how important it is to our daily lives, business operations and society. Intelligence machines are influencing nearly every facet of our lives to help improve efficiencies and augment our human capabilities. AI is so intertwined in all that we do; it's hard to imagine living life without it.","registration":"","learnMore":"https://youtu.be/1vNWIm-VA_k"}
+            ]
+}
