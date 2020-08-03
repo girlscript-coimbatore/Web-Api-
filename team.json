@@ -4,40 +4,40 @@
                 "title":"Chapter Lead",
                 "heading":"If your actions inspire others to dream more, learn more, do more and become more, you are a leader",
                 "members":[
-                  {"name": "kannan","linkId":"https://www.linkedin.com/in/kannan-subramanian-93782b163/","img":"https://sethu-1471.github.io/girlscript_api/Team/20.jpg","college":""},
-                  {"name": " Sushma","linkId":"https://www.linkedin.com/in/sushma-bala-03112000/","img":"https://sethu-1471.github.io/girlscript_api/Team/18.jpg","college":""}
+                  {"name": "kannan","linkId":"https://www.linkedin.com/in/kannan-subramanian-93782b163/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/20.jpg","college":""},
+                  {"name": " Sushma","linkId":"https://www.linkedin.com/in/sushma-bala-03112000/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/18.jpg","college":""}
                 ]
           },
            {
                 "title":"Chapter Member",
                 "heading":"Success isn't about the money you make, it is about the difference you make in people's lives.",
                 "members":[
-                  {"name": "Ephphra","linkId":"https://www.linkedin.com/in/epaphra-t-06a7751ab/","img":"https://sethu-1471.github.io/girlscript_api/Team/8.jpg","college":""},
-                  {"name": "Sneha Nagaraj","linkId":"https://www.linkedin.com/in/sneha-nagaraj-40890a15b/","img":"https://sethu-1471.github.io/girlscript_api/Team/16.jpg","college":""},
-                  {"name": "Akalya Ashokan","linkId":"https://www.linkedin.com/in/akalya-asokan-38b807179/","img":"https://sethu-1471.github.io/girlscript_api/Team/1.jpg","college":""},
-                  {"name": "Deepthi Shree","linkId":"https://www.linkedin.com/in/deepthi-shree-0986b418b/","img":"https://sethu-1471.github.io/girlscript_api/Team/6.jpg","college":""},
-                  {"name": "Ramya","linkId":"https://www.linkedin.com/in/ramyahk/","img":"https://sethu-1471.github.io/girlscript_api/Team/15.jpg","college":""},
-                  {"name": "Kishore","linkId":"https://www.linkedin.com/in/kishorekumar-2507/","img":"https://sethu-1471.github.io/girlscript_api/Team/9.jpg","college":""},
-                  {"name": "Naveen","linkId":"https://www.linkedin.com/in/naveen-k-14b397170/","img":"https://sethu-1471.github.io/girlscript_api/Team/11.jpg","college":""},
+                  {"name": "Ephphra","linkId":"https://www.linkedin.com/in/epaphra-t-06a7751ab/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/8.jpg","college":""},
+                  {"name": "Sneha Nagaraj","linkId":"https://www.linkedin.com/in/sneha-nagaraj-40890a15b/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/16.jpg","college":""},
+                  {"name": "Akalya Ashokan","linkId":"https://www.linkedin.com/in/akalya-asokan-38b807179/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/1.jpg","college":""},
+                  {"name": "Deepthi Shree","linkId":"https://www.linkedin.com/in/deepthi-shree-0986b418b/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/6.jpg","college":""},
+                  {"name": "Ramya","linkId":"https://www.linkedin.com/in/ramyahk/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/15.jpg","college":""},
+                  {"name": "Kishore","linkId":"https://www.linkedin.com/in/kishorekumar-2507/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/9.jpg","college":""},
+                  {"name": "Naveen","linkId":"https://www.linkedin.com/in/naveen-k-14b397170/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/11.jpg","college":""},
                   {"name": "Sethupathi","linkId":"https://www.linkedin.com/in/p-sethu-pathi-580560170/","img":"","college":""},
                   {"name": "Vishnu Varthan Rao","linkId":"https://www.linkedin.com/in/vishnu-varthan-rao-765345175/","img":"","college":""},
-                  {"name": "Shri Hari","linkId":"https://www.linkedin.com/in/shrihari99/","img":"https://sethu-1471.github.io/girlscript_api/Team/15.jpg","college":""},
-                  {"name": "Supraja","linkId":"https://www.linkedin.com/in/supraja-srikanth-b042b1150/","img":"https://sethu-1471.github.io/girlscript_api/Team/17.jpg","college":""}
+                  {"name": "Shri Hari","linkId":"https://www.linkedin.com/in/shrihari99/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/15.jpg","college":""},
+                  {"name": "Supraja","linkId":"https://www.linkedin.com/in/supraja-srikanth-b042b1150/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/17.jpg","college":""}
                 ]
           },
           {
                 "title":"Campus hero",
                 "heading":"The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet.",
                 "members":[
-                  {"name": "Midhun Raj ","linkId":"   https://www.linkedin.com/in/midhun-raaj-s/","img":"https://sethu-1471.github.io/girlscript_api/Team/10.jpg","college":"Sri Krishna College of Technology"},
-                  {"name": "Navya","linkId":" https://www.linkedin.com/in/navya-chandran-2a2263178/","img":"https://sethu-1471.github.io/girlscript_api/Team/12.jpg","college":"Sri Krishna College of Technology"},
-                  {"name": " Poobalan","linkId":" https://www.linkedin.com/in/poobalan-p-437977189/","img":"https://sethu-1471.github.io/girlscript_api/Team/13.jpg","college":" Coimbatore institute of technology"},
-                  {"name": "Chitralekha","linkId":"https://www.linkedin.com/in/chitraleka-venkatachalam-523906176/ ","img":"https://sethu-1471.github.io/girlscript_api/Team/3.jpg","college":" Coimbatore institute of technology"},
+                  {"name": "Midhun Raj ","linkId":"   https://www.linkedin.com/in/midhun-raaj-s/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/10.jpg","college":"Sri Krishna College of Technology"},
+                  {"name": "Navya","linkId":" https://www.linkedin.com/in/navya-chandran-2a2263178/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/12.jpg","college":"Sri Krishna College of Technology"},
+                  {"name": " Poobalan","linkId":" https://www.linkedin.com/in/poobalan-p-437977189/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/13.jpg","college":" Coimbatore institute of technology"},
+                  {"name": "Chitralekha","linkId":"https://www.linkedin.com/in/chitraleka-venkatachalam-523906176/ ","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/3.jpg","college":" Coimbatore institute of technology"},
                   {"name": "Varun ","linkId":"  https://www.linkedin.com/in/pmvarun/","img":"","college":"  KGISL institute of technology "},
-                  {"name": " Arthi roselin","linkId":" https://www.linkedin.com/in/arthi-roselin-86b23714a/  ","img":"https://sethu-1471.github.io/girlscript_api/Team/2.jpg","college":"KGISL institute of technology "},
-                  {"name": "Balaharan","linkId":"https://www.linkedin.com/in/bala-haran-s-429b601a5/  ","img":" https://sethu-1471.github.io/girlscript_api/Team/4.jpg","college":"Sri Krishna ARTS and Science"},
-                  {"name": "Barath ","linkId":" https://www.linkedin.com/in/barath-sivakumar-54a84a136/","img":" https://sethu-1471.github.io/girlscript_api/Team/5.jpg ","college":"Karpagam college of engineering "},
-                  {"name": "Yaamini","linkId":"","img":"https://sethu-1471.github.io/girlscript_api/Team/19.jpg","college":"Karpagam college of engineering "}
+                  {"name": " Arthi roselin","linkId":" https://www.linkedin.com/in/arthi-roselin-86b23714a/  ","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/2.jpg","college":"KGISL institute of technology "},
+                  {"name": "Balaharan","linkId":"https://www.linkedin.com/in/bala-haran-s-429b601a5/  ","img":" https://girlscript-coimbatore.github.io/Web-Api-/Team/4.jpg","college":"Sri Krishna ARTS and Science"},
+                  {"name": "Barath ","linkId":" https://www.linkedin.com/in/barath-sivakumar-54a84a136/","img":" https://girlscript-coimbatore.github.io/Web-Api-/Team/5.jpg ","college":"Karpagam college of engineering "},
+                  {"name": "Yaamini","linkId":"","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/19.jpg","college":"Karpagam college of engineering "}
                 ]
           },
           {
@@ -45,7 +45,7 @@
                 "heading":"Volunteers don’t get paid, not because they’re worthless, but because they’re priceless.",
                 "members":[
                   {"name": "Swethaa","linkId":"https://www.linkedin.com/in/swethaa-c-395845178/","img":"","college":""},
-                  {"name": "Azarudeen","linkId":"https://www.linkedin.com/in/azarudeen-a-a564551a9/","img":"https://sethu-1471.github.io/girlscript_api/Team/3.jpg","college":""}
+                  {"name": "Azarudeen","linkId":"https://www.linkedin.com/in/azarudeen-a-a564551a9/","img":"https://girlscript-coimbatore.github.io/Web-Api-/Team/3.jpg","college":""}
                 ]
           }
     ]
